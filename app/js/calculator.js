@@ -1,4 +1,4 @@
-window.calculator = window.calculator || {};
+/*window.calculator = window.calculator || {};
 
 (function() {
     var calculate = function() {
@@ -10,10 +10,10 @@ window.calculator = window.calculator || {};
     window.calculator.init = function() {
         document.getElementById('add').addEventListener('click', calculate);
     };
-})();
+})();*/
 
 
-/*
+
 'use strict';
 
 window.calculator = window.calculator || {};
